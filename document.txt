@@ -2,3 +2,6 @@
 creating chatting app
 emoji
 song
+
+dark mode 
+video
